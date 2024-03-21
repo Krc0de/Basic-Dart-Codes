@@ -1,9 +1,9 @@
-vod main() {
+void main() {
 
 }
  class MyClass{
   String brand="";
   String model="";
-  int year ="";
-  double milesDriven= '';
+  int year =2023;
+  double milesDriven= 23.05;
  }
